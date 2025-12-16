@@ -1,0 +1,5 @@
+{
+  "name": "yaSSH",
+  "description": "A minimalist, dark-themed SSH session manager and terminal emulator prototype. Designed for DevOps with session grouping, tabs, and local persistence.",
+  "requestFramePermissions": []
+}
